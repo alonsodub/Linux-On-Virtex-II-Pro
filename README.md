@@ -7,11 +7,11 @@ Linux-On-Virtex-II-Pro
 
 Español: Este proyecto tiene intenciones meramente academicas; tiene como objetivo mostrar el flujo de trabajo para portar el Kernel Linux a un board FPGA Virtex II Pro. El directorio de archivos se estructura de la siguiente forma: 
 
-* hx
+* hardware
   * system.mhs
   * system.mss
   * system.xps
-* lx
+* linux
   * makefile
   * config
   * arch
@@ -19,7 +19,7 @@ Español: Este proyecto tiene intenciones meramente academicas; tiene como objet
       * boot
       * config
       * platforms
-* sw
+* software
   * rootfs
   * my_apps
   * powerpc-405-linux-gnu
