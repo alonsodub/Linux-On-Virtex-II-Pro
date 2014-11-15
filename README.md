@@ -25,6 +25,14 @@ Español: Este proyecto tiene intenciones meramente academicas; tiene como objet
   * powerpc-405-linux-gnu
 * ace 
 
+Al final hay una foto del board con el que planeo trabajar, voy a dejar esta documentacion aqui porque puede ser de utilidad para alguien mas =).
+1) Primero, hay que tener las herramientas instaladas para crear el hardware 
+* ISE_DVD_J_30.5.0- ISE solo funciona SO 32 bit
+* EDK            -- XPS y SDK solo funciona SO 32 bit
+* lib_rev_1_1    --BSB de la tarjeta 
+
+
+
 Board: 
   
   
