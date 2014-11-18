@@ -44,6 +44,7 @@ Al final esta una imagen de la tarjeta, voy a dejar esta documentacion aqui porq
 
 
 
+
 Board: 
   
   
