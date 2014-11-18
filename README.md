@@ -7,11 +7,12 @@ Linux-On-Virtex-II-Pro
 
 Español: Este proyecto tiene intenciones meramente academicas; tiene como objetivo mostrar el flujo de trabajo para portar el Kernel Linux a un board FPGA Virtex II Pro. El directorio de archivos se estructura de la siguiente forma: 
 
-* hardware
-  * system.mhs
-  * system.mss
-  * system.xps
-* linux
+* Hardware
+  * PowerPC
+   * system.mhs
+   * system.mss
+   * system.xps
+* Linux
   * makefile
   * config
   * arch
@@ -19,10 +20,14 @@ Español: Este proyecto tiene intenciones meramente academicas; tiene como objet
       * boot
       * config
       * platforms
-* software
+* Software
   * rootfs
   * my_apps
   * powerpc-405-linux-gnu
+* Xilinx91
+  * ISE_DVD
+  * EDK9.1
+  * lib_rev_1_1
 * ace 
 
 Al final esta una imagen de la tarjeta, voy a dejar esta documentacion aqui porque puede ser de utilidad para alguien mas =)
@@ -31,6 +36,10 @@ Al final esta una imagen de la tarjeta, voy a dejar esta documentacion aqui porq
  * ISE_DVD_J_30.5.0- ISE solo funciona SO 32 bit
  * EDK9.1         -- XPS y SDK solo funciona SO 32 bit
  * lib_rev_1_1    -- BSB de la tarjeta
+
+2. Esta es la forma como he ido abordando la implementacion 
+
+![icon](file:///home/alonso/Descargas/Dise%C3%B1o%20Sistema%20.html)
 
 
 
