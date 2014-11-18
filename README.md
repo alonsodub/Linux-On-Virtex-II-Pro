@@ -39,7 +39,7 @@ Al final esta una imagen de la tarjeta, voy a dejar esta documentacion aqui porq
 
 2. Esta es la forma como he ido abordando la implementacion 
 
-![icon](file:///home/alonso/Descargas/Dise%C3%B1o%20Sistema%20.html)
+![icon](https://drive.google.com/file/d/0B7SZcR-KCky1MThGUlVnQkIzd00/view?usp=sharing)
 
 
 
