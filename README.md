@@ -39,7 +39,7 @@ Al final esta una imagen de la tarjeta, voy a dejar esta documentacion aqui porq
 
 2. Esta es la forma como he ido abordando la implementacion 
 
-![icon](https://drive.google.com/file/d/0B7SZcR-KCky1MThGUlVnQkIzd00/view?usp=sharing)
+![icon](https://alonsodub.files.wordpress.com/2014/11/disec3b1o-sistema.jpg?w=210&h=300)
 
 
 
